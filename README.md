@@ -1,21 +1,21 @@
-# Hi , friends!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
+# Hi , friends!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Namrata9910/Namrata9910/blob/master/assets/Hi.gif" width="40px">
 
-### it's vinayak here,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">
-### A Computer Science and Engineering undergraduate and a full stack programmer <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="40px">
+### it's Namrata9910 here,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Namrata9910/Namrata9910/blob/master/assets/code-cat.gif" width="30px">
+### A Computer Science and Engineering undergraduate and a full stack programmer <img src="https://github.com/Namrata9910/Namrata9910/blob/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="40px">
 
 <p align='center'>
-<img src='https://github.com/itsvinayak/itsvinayak/blob/master/assets/github_wall.gif' width='200'>
+<img src='https://github.com/Namrata9910/Namrata9910/blob/master/assets/github_wall.gif' width='200'>
 </p>
 
 
 
-**connect me: &nbsp;&nbsp;&nbsp;<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/mario.gif" width="30px">**
+**connect me: &nbsp;&nbsp;&nbsp;<img src="https://github.com/Namrata9910/Namrata9910/blob/master/assets/mario.gif" width="30px">**
 
 <code> 
   <a href="mailto:itssvinayak@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
 </code>
 <code> 
-  <a href="https://www.linkedin.com/in/itsvinayak/"><img src='https://img.shields.io/badge/linkedIn-connect-blue' /></a>
+  <a href="https://www.linkedin.com/in/Namrata9910/"><img src='https://img.shields.io/badge/linkedIn-connect-blue' /></a>
 </code>
 
 
